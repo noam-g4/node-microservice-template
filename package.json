@@ -1,0 +1,21 @@
+{
+  "name": "name-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bin/run.js"
+  },
+  "author": "your company",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bunyan": "^1.8.15",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.24.0"
+  }
+}
